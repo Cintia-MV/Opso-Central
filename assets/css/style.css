@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(2, 5, 22) !important;
+    margin: 0;
+}
+
+.navbar{
+    background-color: transparent;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+} 
+
+.titulo{
+    font-family: 'Bungee Inline', cursive;
+};
+
